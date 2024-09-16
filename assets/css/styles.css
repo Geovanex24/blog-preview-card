@@ -1,0 +1,40 @@
+:root {
+  /* COLORS */
+  --yellow: #f4d04e;
+  --white: #fff;
+
+  --gray-950: #111111;
+  --gray-500: #6b6b6b;
+}
+
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Figtree", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* Blog Preview Card */
