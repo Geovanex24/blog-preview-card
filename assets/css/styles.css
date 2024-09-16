@@ -28,6 +28,11 @@ body {
   min-height: 100vh;
 }
 
+img {
+  max-width: 100%;
+  display: block;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
