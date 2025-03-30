@@ -1,4 +1,4 @@
-# Frontend Mentor - Results summary component solution
+# Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [blog-preview-component-gfz.netlify.app](blog-preview-component-gfz.netlify.app)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-component-html-and-css-03rN5rYMVj](https://www.frontendmentor.io/solutions/blog-preview-component-html-and-css-03rN5rYMVj)
+- Live Site URL: [https://blog-preview-component-gfz.netlify.app/](https://blog-preview-component-gfz.netlify.app/)
 
 ## My process
 
